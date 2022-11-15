@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Orlandis Cuevas 👩‍💻</h1>
-<h3 align="center">A passionate about the frontend although I also consider myself good at managing the backend, Full-Stack Javascript ReactJS & NodeJS.</br> Based in Barcelona Spain</h3>
+<h3 align="center">A passionate about the frontend although I also consider myself good at managing the backend, Full-Stack Javascript ReactJS & NodeJS. </br>Based in Barcelona Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orlandiscs&label=Profile%20views&color=0e75b6&style=flat" alt="orlandiscs" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orlandiscs" alt="orlandiscs" /></a> </p>
 
 - 🌱 I’m currently learning **NestJS,Python & artificial intelligence**
+
+- 📱 How to contact me by phone [631212190](631212190)
 
 - 👨‍💻 All of my projects are available at [orlandis.tech](orlandis.tech)
 
