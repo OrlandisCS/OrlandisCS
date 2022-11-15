@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NestJS,Python & artificial intelligence**
 
-- 📱 How to contact me by phone [631212190](631212190)
+- 📱 How to contact me by phone [+34631212190](+34631212190)
 
 - 👨‍💻 All of my projects are available at [orlandis.tech](orlandis.tech)
 
