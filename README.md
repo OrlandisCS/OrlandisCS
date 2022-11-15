@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Orlandis Cuevas 👩‍💻</h1>
-<h3 align="center">A passionate about the frontend although I also consider myself good at managing the backend, Full-Stack Javascript ReactJS & NodeJS. Based in Barcelona Spain</h3>
+<h3 align="center">A passionate about the frontend although I also consider myself good at managing the backend, Full-Stack Javascript ReactJS & NodeJS.</br> Based in Barcelona Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orlandiscs&label=Profile%20views&color=0e75b6&style=flat" alt="orlandiscs" /> </p>
 
